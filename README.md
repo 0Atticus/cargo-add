@@ -7,7 +7,7 @@ simple tool to add crates to your Cargo.toml file.
 
 ## setup:
 
-run:
+in a bash shell run:
 
 ```bash
     cd && git clone https://github.com/0Atticus/cargo-add && function add { python3 ~/cargo-add/main.py $1 $(readlink -f Cargo.toml) }
