@@ -21,4 +21,3 @@ in your cargo folder run:
 add [crate name]
 ```
 to add the latest version of the crate to your dependencies
-
