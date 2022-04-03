@@ -1,1 +1,0 @@
-python3 ~/cargo_add/main.py $1 $2
